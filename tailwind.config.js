@@ -4,6 +4,8 @@ module.exports = {
   theme: {
     screens: {
       sm: "375px",
+      md: "768px",
+      lg: "1220px",
       xl: "1440px",
     },
     colors: {
@@ -21,7 +23,7 @@ module.exports = {
     fontSize: {
       sm: "14px",
       md: "20px",
-      xl: "24px"
+      xl: "24px",
     },
     fontFamily: {
       raleway: ["Raleway", "sans-serif"],
