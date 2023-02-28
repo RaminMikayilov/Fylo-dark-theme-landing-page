@@ -541,40 +541,12 @@ video {
   top: -0.5rem;
 }
 
-.left-0 {
-  left: 0px;
-}
-
-.top-0 {
-  top: 0px;
+.-top-32 {
+  top: -8rem;
 }
 
 .left-1\/2 {
   left: 50%;
-}
-
-.-top-1\/2 {
-  top: -50%;
-}
-
-.-top-3\/4 {
-  top: -75%;
-}
-
-.-top-48 {
-  top: -12rem;
-}
-
-.-top-24 {
-  top: -6rem;
-}
-
-.-top-36 {
-  top: -9rem;
-}
-
-.-top-32 {
-  top: -8rem;
 }
 
 .mx-auto {
@@ -798,8 +770,8 @@ video {
   padding-bottom: 5rem;
 }
 
-.pb-24 {
-  padding-bottom: 6rem;
+.pb-52 {
+  padding-bottom: 13rem;
 }
 
 .pt-32 {
