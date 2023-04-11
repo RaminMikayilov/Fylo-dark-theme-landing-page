@@ -1091,6 +1091,11 @@ video {
 }
 
 @media (min-width: 768px) {
+  .md\:mx-0 {
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+
   .md\:w-1\/2 {
     width: 50%;
   }
